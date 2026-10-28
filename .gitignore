@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Created when you run the scripts
+models/*.joblib
+models/metrics.json
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db

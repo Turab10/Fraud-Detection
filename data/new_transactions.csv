@@ -1,0 +1,13 @@
+transaction_id,transaction_time,channel,merchant_category,amount,amount_to_avg_ratio,distance_from_home_km,distance_from_last_txn_km,txns_last_24h,is_new_device,is_new_merchant,used_chip,used_pin,is_international,card_age_months,customer_age
+NEW0001,2025-01-01 01:05:00,in_store,jewelry,35474.73,36.084,17.7,55.3,2,0,1,1,1,1,23,30
+NEW0002,2025-01-01 07:14:00,in_store,restaurant,322.4,0.24,2.7,4.1,1,0,0,1,0,0,92,36
+NEW0003,2025-01-01 08:40:00,online,online_shopping,692.93,0.303,3.2,47.6,3,0,1,0,0,0,57,52
+NEW0004,2025-01-01 09:55:00,in_store,health,338.04,0.238,1.5,0.4,3,0,0,1,1,0,39,31
+NEW0005,2025-01-01 10:34:00,in_store,restaurant,308.37,0.341,18.9,2.5,1,0,0,1,1,0,31,32
+NEW0006,2025-01-01 10:40:00,online,grocery,1362.92,0.435,3.2,2.0,4,0,0,0,0,0,12,59
+NEW0007,2025-01-01 11:00:00,in_store,restaurant,1054.9,0.828,1.5,2.9,3,0,1,1,0,0,26,35
+NEW0008,2025-01-01 12:00:00,in_store,restaurant,1788.87,1.718,3.9,0.9,5,0,0,1,1,0,27,60
+NEW0009,2025-01-03 04:56:00,in_store,electronics,4615.81,3.024,1050.6,72.7,8,0,1,0,0,0,57,44
+NEW0010,2025-01-03 16:35:00,in_store,jewelry,40643.71,15.287,1877.0,733.8,7,0,0,0,0,0,19,22
+NEW0011,2025-01-05 18:47:00,online,electronics,10898.18,12.35,4.7,289.1,1,1,1,0,0,0,57,31
+NEW0012,2025-01-08 02:19:00,online,entertainment,1684.34,1.275,5.8,49.5,6,0,1,0,0,0,59,37
